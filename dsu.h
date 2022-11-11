@@ -1,3 +1,5 @@
+// implementation of disjoin set union data structure
+
 struct dsu {
     int mx = 1e5 + 5;
     int p[mx], sz[mx];
