@@ -1,3 +1,5 @@
+// custom implementation of min heap (priority queue)
+
 struct priorityQueue {
     int n;
     vector<int> heap;
