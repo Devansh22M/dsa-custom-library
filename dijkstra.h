@@ -1,3 +1,5 @@
+// single source shortest path algorithm
+
 struct dijkstra {
     const int inf = 1e9;
     int mx;
