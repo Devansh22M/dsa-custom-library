@@ -1,3 +1,5 @@
+// segment tree data structure for range queries
+
 #define sz(x) (int)x.size()
 
 struct item {
