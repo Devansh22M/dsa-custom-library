@@ -1,5 +1,7 @@
 using ll = long long;
 
+// using binary exponentiation for fast pow
+
 ll binpow(ll a, ll b) {
     ll res = 1;
     while(b > 0) {
